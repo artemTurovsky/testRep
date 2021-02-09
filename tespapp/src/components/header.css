@@ -2,4 +2,10 @@
   width: 100%;
   padding-left: 60px;
   padding-right: 80px;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.textContainer {
+  flex-direction: column;
 }
